@@ -1,0 +1,1 @@
+SQUIGGLE_API = "https://api.squiggle.com.au/"
